@@ -39,6 +39,6 @@ python score.py --explain
 
 ## How I used AI
 
-WRITE THIS YOURSELF, 2 or 3 sentences. Say which tool you used and for what, for example drafting the structure and checking the score arithmetic, and that you reviewed every number and decision yourself.
+I used Claude to help plan the design, draft the write up, prompt, diagram and prototype, and check the scoring arithmetic. I then reviewed each file, ran the scorer myself to confirm it reproduces my ranking, and fixed the repository structure when uploading.
 
-Then give one real place you disagreed with or corrected the AI and why. Only use something that actually happened.
+One place I corrected the AI: its first version of the prototype configuration hard coded a specific AI provider and model name. I changed it to neutral settings (LLM_API_KEY and LLM_MODEL) so the tool is not tied to one vendor and the model can be swapped through configuration alone.
