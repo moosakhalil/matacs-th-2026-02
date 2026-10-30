@@ -1,8 +1,8 @@
 # AI Proposal Triage Design
 
-**Name:** YOUR FULL NAME
+**Name:** MUHAMMAD MOOSA KHALIL
 **Reference:** MATACS-TH-2026-02
-**Time spent:** about X minutes on the design, plus X minutes on the optional prototype
+**Time spent:** about 60-70 minutes on the design, plus 50 minutes on the optional prototype
 
 ## Files
 
