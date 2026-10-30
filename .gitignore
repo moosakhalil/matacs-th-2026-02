@@ -1,0 +1,4 @@
+.env
+prototype/.env
+prototype/proposals/
+__pycache__/
